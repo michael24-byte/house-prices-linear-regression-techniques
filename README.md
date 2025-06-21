@@ -5,9 +5,6 @@ This project uses linear regression to predict house prices based on housing fea
 ---
 
 ## 📁 Project Structure
-
-- `train.csv` and `test.csv`: Original datasets
-- `test_cleaned.csv`: Cleaned test data
 - `model_pipeline.pkl`: Trained model pipeline
 - `feature_importance.png`: Visual of top features
 - `notebooks/`: Jupyter notebooks for EDA and modeling
